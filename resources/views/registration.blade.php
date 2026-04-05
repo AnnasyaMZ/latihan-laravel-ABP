@@ -47,6 +47,6 @@
     </form>
 
     <br>
-    <a href="/login">Sudah punya akun? Login</a> 
+    <a href="/login">Sudah punya akun? Yuk Login</a> 
 </body>
 </html>

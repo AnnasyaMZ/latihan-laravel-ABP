@@ -6,7 +6,7 @@
     <style>
     
         .btn-green {
-            background-color: #28a745; /* Warna hijau */
+            background-color: #28a745; 
             color: white;
             padding: 8px 16px;
             border: none;
@@ -14,7 +14,7 @@
             cursor: pointer;
         }
         .btn-green:hover {
-            background-color: #218838; /* Warna hijau lebih gelap saat di-hover */
+            background-color: #218838; 
         }
         form div {
             margin-bottom: 10px;
@@ -42,6 +42,6 @@
     </form>
 
     <br>
-    <a href="/registration">Belum punya akun? Register</a> 
+    <a href="/registration">Belum punya akun? Yuk Register</a> 
 </body>
 </html>
